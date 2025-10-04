@@ -39,7 +39,5 @@ public class Main {
 
         mazo.usarCarta(cartas);
 
-
-
     }
 }
