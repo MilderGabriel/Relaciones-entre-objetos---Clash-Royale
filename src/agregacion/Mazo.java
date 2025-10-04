@@ -6,7 +6,6 @@ public class Mazo {
     private Jugador jugador;
     private Carta[] cartas;
     private double promedio;
-    private final int cantidadCartas = 8;
 
     public Mazo(Carta[] cartas, Jugador jugador) {
         this.cartas = cartas;
